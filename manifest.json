@@ -1,0 +1,14 @@
+{
+    "name": "Red Team Project",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_frame": "Red Team Project desktop Seburo 09042019.png"
+        },
+        "colors": {
+            "frame": "rgba(229, 230, 232, 1)",
+            "tab_background_text": "rgba(0, 200, 215, 1)"
+        }
+    }
+}
